@@ -30,7 +30,7 @@ Ce laboratoire m'a permis de maîtriser les outils suivants :
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone [https://github.com/Sultan-zd/Lab5-ViewPager-Conversions.git](https://github.com/Sultan-zd/Lab5-ViewPager-Conversions.git)
+   git clone https://github.com/Sultan-zd/Lab5-ViewPager-Conversions.git
 
 2. Ouvrez Android Studio.
 
